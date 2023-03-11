@@ -1,9 +1,9 @@
-name: "Github Release"
+name: "Common action"
 author: "Farkhod Sadykov"
 branding:
   icon: "git-branch"
   color: "gray-dark"
-description: "Publish Github releases from an action"
+description: "Publish Common actions from an action"
 
 inputs:
   title:

@@ -7,22 +7,22 @@ function logging()  {
 
 ## TO DO
 function preparing_to_build() {
-  logging "Preparing to build the $INPUT_TITLE"
+  logging "Preparing to build the $APP_NAME"
 }
 
 ## TO DO
 function preparing_to_deploy() {
-  logging "Preparing to deploy the $INPUT_TITLE"
+  logging "Preparing to deploy the $APP_NAME"
 }
 
 ## TO DO
 function build() {
-  logging "Building the $INPUT_TITLE"
+  logging "Building the $APP_NAME"
 }
 
 ## TO DO
 function deploy() {
-  logging "Deploying the $INPUT_TITLE"
+  logging "Deploying the $APP_NAME"
 }
 
 
